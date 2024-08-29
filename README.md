@@ -1,23 +1,25 @@
 # Jessica Wrzesien
 
-**`Entrepreneur (Software Development/Leadership/Marketing)`**
+**`Second Year Computer Science Major and Aspiring Cybersecurity Engineer`**
 
-I'm a Computer Science student at the Georgia Institute of Technology specializing in Cyber Security and Information Internetworks. With a solid academic foundation and hands-on experience, I am proficient in a variety of programming languages and in my free time, I enjoy working through complex programming problems online and learning new languages. Using my expertise in ReactJS and Java, I co-founded a startup called Quuri which is a web application used as a platform for researchers to network, collaborate and publicize research.
+I'm a Computer Science student at the Georgia Institute of Technology specializing in Cybersecurity & Privacy and Information Internetworks. With a solid academic foundation and hands-on experience, I am proficient in a variety of programming languages and in my free time, I enjoy working through complex programming problems online and learning new languages.
+
+As a Cybersecurity Intern at Northrop Grumman, I learned how to navigate and use servers and SQLite databases, clouds services such as AWS and Azure, and attack surface management tools; I became familiar with enterprise and cybersecurity processes and terminology; and I gained more experience in using Linux and writing scripts in Python. 
 
 <p align="left">
     <a href="https://github.com/wrzesienjessica?tab=repositories">
-        <img alt="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+        <img alt="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-9EE588?style=for-the-badge&logoColor=black&logo=repo"/></a>
     <a href="https://github.com/wrzesienjessica?tab=followers">
-        <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/wrzesienjessica?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/wrzesienjessica?color=9EE588&labelColor=9EE588&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/>
     <a href="mailto: jessica.wrzesien@gmail.com">
-        <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-jessica.wrzesien@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+        <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-jessica.wrzesien@gmail.com-9EE588?style=for-the-badge&logo=mention&logoColor=black"/></a>
     <a>
-        <img alt="Phone Number" src="https://custom-icon-badges.demolab.com/badge/-770--235--3146-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
+        <img alt="Phone Number" src="https://custom-icon-badges.demolab.com/badge/-770--235--3146-9EE588?style=for-the-badge&logo=phone&logoColor=black"/></a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 📗 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -33,9 +35,8 @@ I'm a Computer Science student at the Georgia Institute of Technology specializi
 
 #
 
-### 📊 Stats
+### 📜 Stats
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrzesienjessica&show_icons=true&theme=gruvbox)
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrzesienjessica&show_icons=true&theme=merko)
 
-[linkedin]: https://www.linkedin.com/in/jason-wrzesien/
-[website]: https://quuri.com/about
+[linkedin]: https://www.linkedin.com/in/jessica-wrzesien/
