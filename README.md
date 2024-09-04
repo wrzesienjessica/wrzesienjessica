@@ -37,6 +37,6 @@ As a Cybersecurity Intern at Northrop Grumman, I learned how to navigate and use
 
 ### 📜 Stats
 
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrzesienjessica&show_icons=true&theme=merko)
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrzesienjessica&show_icons=true&theme=shadow_green)
 
 [linkedin]: https://www.linkedin.com/in/jessica-wrzesien/
