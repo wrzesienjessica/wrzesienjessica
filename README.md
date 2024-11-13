@@ -15,7 +15,9 @@ My current goal is to develop my conceptual knowledge of data structures & algor
         <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/wrzesienjessica?color=9EE588&labelColor=9EE588&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/>
     <a href="mailto: jessica.wrzesien@gmail.com">
         <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-jessica.wrzesien@gmail.com-9EE588?style=for-the-badge&logo=mention&logoColor=black"/></a>
-    <a>
+    <a href="https://www.linkedin.com/in/jessica-wrzesien-601429179/" target="_blank">
+        <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-9EE588?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 </p>
 
 ---
