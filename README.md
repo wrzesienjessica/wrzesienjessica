@@ -6,6 +6,8 @@ I'm a Computer Science student at the Georgia Institute of Technology specializi
 
 As a Cybersecurity Intern at Northrop Grumman, I learned how to navigate and use servers and SQLite databases, clouds services such as AWS and Azure, and attack surface management tools; I became familiar with enterprise and cybersecurity processes and terminology; and I gained more experience in using Linux and writing scripts in Python. 
 
+My current goal is to develop my conceptual knowledge of data structures & algorithms and to create more personal projects to exhibit in my GitHub.
+
 <p align="left">
     <a href="https://github.com/wrzesienjessica?tab=repositories">
         <img alt="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-9EE588?style=for-the-badge&logoColor=black&logo=repo"/></a>
