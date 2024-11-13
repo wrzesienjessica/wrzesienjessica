@@ -16,7 +16,6 @@ My current goal is to develop my conceptual knowledge of data structures & algor
     <a href="mailto: jessica.wrzesien@gmail.com">
         <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-jessica.wrzesien@gmail.com-9EE588?style=for-the-badge&logo=mention&logoColor=black"/></a>
     <a>
-        <img alt="Phone Number" src="https://custom-icon-badges.demolab.com/badge/-770--235--3146-9EE588?style=for-the-badge&logo=phone&logoColor=black"/></a>
 </p>
 
 ---
